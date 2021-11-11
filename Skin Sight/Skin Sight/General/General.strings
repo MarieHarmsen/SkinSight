@@ -1,0 +1,14 @@
+//MARK: General Strings
+"Title.AppName" = "Skin Sight";
+
+//MARK: Authentication Strings
+"Authentication.login" = "Log In";
+"Authentication.forgotPassword" = "Forgot Password?";
+"Authentication.signUp" = "Sign Up";
+"Authentication.email" = "Email";
+"Authentication.password" = "Password";
+"Authentication.or" = "OR";
+"Authentication.account" = "Dont have an account? Sign Up";
+"Authentication.apple" = "Continue with Apple";
+"Authentication.google" = "Continue with Google";
+"Authentication.facebook" = "Continue with Facebook";
