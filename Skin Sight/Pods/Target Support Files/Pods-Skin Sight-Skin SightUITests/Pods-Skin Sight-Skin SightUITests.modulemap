@@ -1,0 +1,6 @@
+framework module Pods_Skin_Sight_Skin_SightUITests {
+  umbrella header "Pods-Skin Sight-Skin SightUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

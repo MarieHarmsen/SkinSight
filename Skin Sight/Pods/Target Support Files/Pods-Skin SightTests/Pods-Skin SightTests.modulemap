@@ -1,0 +1,6 @@
+framework module Pods_Skin_SightTests {
+  umbrella header "Pods-Skin SightTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
